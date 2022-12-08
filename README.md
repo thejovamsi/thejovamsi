@@ -6,3 +6,4 @@
 - 📫 thejovamsigajjala@gmail.com
 💻  Here's a few of the projects I'm working on: spriyo.xyz - NFT Marketplace
 ✨  Let's connect on LinkedIn 
+✨ You can follow me on Twitter https://twitter.com/ThejoVamsi
