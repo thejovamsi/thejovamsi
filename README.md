@@ -1,14 +1,13 @@
 # Hi, I'm Thejo Vamsi 👋  
 
-🚀 **Frontend Developer | Startup Enthusiast | Lifelong Learner**
+🚀 **Fullstack Developer | Startup Enthusiast | Lifelong Learner**
 
 ---
 
 ### 👨‍💻 About Me  
 - 🔥 Passionate about building impactful **Web Applications**  
-- 🌱 Currently exploring **Web2 & Web3 ecosystems**  
-- 👯 Open to collaborating on **open-source tools that empower individuals**  
-- ⚡ Fun fact: I love connecting technology with creative problem-solving!  
+- 🌱 Currently exploring **AI ecosystems**  
+- 👯 Open to collaborating on **open-source tools that empower individuals**   
 
 ---
 
