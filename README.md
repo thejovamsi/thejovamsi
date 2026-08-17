@@ -29,7 +29,5 @@ A platform connecting people to meaningful quests and charity initiatives.
 ---
 
 ### 📫 Connect with Me  
-- ✨ [LinkedIn](https://www.linkedin.com/in/gajjala-thejovamsi-012a80234/)  
-- ✨ [Twitter](https://twitter.com/ThejoVamsi)  
 - ✉️ **thejovamsigajjala@gmail.com** 
 
